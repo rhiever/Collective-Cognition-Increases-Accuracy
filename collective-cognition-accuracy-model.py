@@ -1,5 +1,6 @@
 # Code for the model in the paper, "Accurate decisions in an uncertain world:
 # collective cognition increases true positives while decreasing false positives."
+# This code was designed to be run in IPython Notebook: http://ipython.org/notebook.html
 
 # Copyright 2013 Randal S. Olson.
 #
